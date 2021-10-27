@@ -91,12 +91,12 @@ strong {
     color: #000000;
 }
 
-.container {
-    text-align: center;
-    margin: 18px auto 80px auto;
-}
-
 .img-link {
     text-decoration: none;
     margin: 0 18px;
+}
+
+.container {
+    text-align: center;
+    margin: 18px auto 80px auto;
 }
